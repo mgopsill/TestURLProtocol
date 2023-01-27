@@ -2,6 +2,8 @@
 [![CI](https://github.com/mgopsill/TestURLProtocol/workflows/CI/badge.svg)](https://github.com/mgopsill/TestURLProtocol/actions?query=workflow%3ACI)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fmgopsill%2FTestURLProtocol%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/mgopsill/TestURLProtocol)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fmgopsill%2FTestURLProtocol%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/mgopsill/TestURLProtocol)
+![GitHub](https://img.shields.io/github/license/mgopsill/testurlprotocol)
+![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)
 
 The TestURLProtocol is a URLProtocol subclass for testing purposes. It allows for setting mock responses for specific URLs, which are returned instead of making a real network request. This can be very useful for testing your app's networking code without relying on external resources or APIs.
 
